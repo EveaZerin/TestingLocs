@@ -10,5 +10,3 @@ var translations = {
     }
   }
 };
-
-export default translations;
