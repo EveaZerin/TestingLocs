@@ -9,6 +9,5 @@ const fr = {
       "try_again": "Veuillez réessayer"
     }
   }
-}
+};
 
-export default fr;

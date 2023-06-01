@@ -9,6 +9,5 @@ const en = {
       "try_again": "Please try again"
     }
   }
-}
+};
 
-export default en;

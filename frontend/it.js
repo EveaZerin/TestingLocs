@@ -9,6 +9,5 @@ const it = {
       "try_again": "Per favore riprova"
     }
   }
-}
+};
 
-export default it;

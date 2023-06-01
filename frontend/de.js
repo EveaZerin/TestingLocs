@@ -9,6 +9,5 @@ const de = {
       "try_again": "Bitte versuche es erneutgoogle tra"
     }
   }
-}
+};
 
-export default de;
