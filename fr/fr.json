@@ -1,0 +1,10 @@
+{
+    "modal": {
+        "failure_description": "",
+        "failure_header": "",
+        "success_description": "",
+        "success_header": "",
+        "deleting_contract": "Suppression du contrat",
+        "try_again": "Essayer à nouveau"
+    }
+}

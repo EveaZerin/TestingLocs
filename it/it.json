@@ -1,0 +1,10 @@
+{
+    "modal": {
+        "failure_description": "",
+        "failure_header": "",
+        "success_description": "",
+        "success_header": "",
+        "deleting_contract": "",
+        "try_again": "Riprova"
+    }
+}
