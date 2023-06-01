@@ -1,4 +1,4 @@
-const fr = {
+var translations = {
   "contract": {
     "modal": {
       "failure_description": "La suppression a échoué pour le contrat",
@@ -10,4 +10,3 @@ const fr = {
     }
   }
 };
-

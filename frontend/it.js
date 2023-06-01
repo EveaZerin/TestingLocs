@@ -1,4 +1,4 @@
-const it = {
+var translations = {
   "contract": {
     "modal": {
       "failure_description": "L'eliminazione del contratto non è riuscita",
@@ -10,4 +10,3 @@ const it = {
     }
   }
 };
-

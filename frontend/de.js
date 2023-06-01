@@ -1,4 +1,4 @@
-const de = {
+var translations = {
   "contract": {
     "modal": {
       "failure_description": "Das Löschen des Vertrags ist fehlgeschlagen",
@@ -10,4 +10,3 @@ const de = {
     }
   }
 };
-
