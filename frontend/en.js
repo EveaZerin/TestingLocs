@@ -1,4 +1,4 @@
-var translations = {
+var en = {
   "contract": {
     "modal": {
       "failure_description": "Deletion has failed for the contract",
