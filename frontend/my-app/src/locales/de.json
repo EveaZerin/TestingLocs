@@ -1,7 +1,8 @@
 {
-  "title": "de - Welcome to react using react-i18next",
+  "title": "Willkommen bei react mit react-i18next",
   "description": {
-    "part1": "de - To get started, edit <1>src/App.js</1> and save to reload.",
-    "part2": "de - Switch language between english and german using buttons above."
+    "part1": "Bearbeiten Sie zunächst < 1 > src\/App.js < \/1 > und speichern Sie es, um es erneut zu laden.",
+    "part2": "Wechseln Sie mit den Schaltflächen oben zwischen Englisch und Deutsch.",
+    "part3": "JSON einchecken"
   }
 }
