@@ -1,0 +1,16 @@
+{
+    "description": {
+        "part3": "JSON einchecken"
+    },
+    "login_screen": {
+        "register": {
+            "register": "Registrieren"
+        },
+        "welcome": {
+            "welcome": "Willkommen"
+        },
+        "email": {
+            "email": "Deine E-Mail"
+        }
+    }
+}
