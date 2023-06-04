@@ -4,5 +4,16 @@
     "part1": "Bearbeiten Sie zunächst < 1 > src/App.js < /1 > und speichern Sie es, um es erneut zu laden.",
     "part2": "Wechseln Sie mit den Schaltflächen oben zwischen Englisch und Deutsch.",
     "part3": "JSON einchecken"
+  },
+  "login_screen": {
+    "register": {
+      "register": "Registrieren"
+    },
+    "welcome": {
+      "welcome": "Willkommen"
+    },
+    "email": {
+      "email": "Deine E-Mail"
+    }
   }
 }
