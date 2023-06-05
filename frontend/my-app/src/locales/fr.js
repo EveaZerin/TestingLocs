@@ -1,4 +1,4 @@
-export var translations = {
+var translations = {
   "plural_key": {
       "one": "fr-One user online.",
       "other": "fr-%i users online."
