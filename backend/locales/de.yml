@@ -1,13 +1,12 @@
----
 de:
   user_mailer:
     reset_confirmation:
       html:
-        body_html: We have received a request to reset your password for this email address.<br />To reset the password, please click <a href=%{link}>here</a>.<br><br>If you have not requested a password change, please ignore this email.<br><br>
-        ending_html: Kind Regards<br />Bio Suisse
-        greeting_html: Hello %{name}
-      subject: Password change
+        body_html: 'Wir haben eine Anfrage zum Zurücksetzen Ihres Passworts für diese E-Mail-Adresse erhalten. <br /> Um das Passwort zurückzusetzen, klicken Sie bitte <a href=%{link}> hier </a> . <br> <br> Wenn Sie keine Passwortänderung angefordert haben, ignorieren Sie diese E-Mail bitte. <br> <br>'
+        ending_html: 'Mit freundlichen Grüßen<br />Bio Suisse'
+        greeting_html: 'Hallo %{name}'
+      subject: Passwortänderung
       text:
-        body: If you have requested to reset your password follow the link below. Otherwise please ignore this message. (Your password will not be changed if you don't follow the link below.)
-        ending: Sincerely yours,
-        greeting: Dear %{name},
+        body: 'Wenn Sie das Zurücksetzen Ihres Passworts beantragt haben, folgen Sie dem untenstehenden Link. Andernfalls ignorieren Sie bitte diese Nachricht. (Ihr Passwort wird nicht geändert, wenn Sie dem untenstehenden Link nicht folgen.)'
+        ending: 'Mit freundlichen Grüßen,'
+        greeting: 'Lieber %{name} ,'
