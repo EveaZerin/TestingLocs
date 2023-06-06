@@ -1,0 +1,67 @@
+---
+en_DE:
+  user_mailer:
+    reset_confirmation:
+      html:
+        body_html: ""
+        ending_html: ""
+        greeting_html: ""
+      subject: ""
+      text:
+        body: ""
+        ending: ""
+        greeting: ""
+  grape:
+    'errors':
+      'format': ""
+      'messages':
+        'all_or_none': ""
+        'at_least_one': ""
+        'blank': ""
+        'coerce': ""
+        'empty_message_body': ""
+        'exactly_one': ""
+        'except_values': ""
+        'incompatible_option_values': ""
+        'invalid_accept_header':
+          problem: ""
+          resolution: ""
+        'invalid_formatter': ""
+        'invalid_message_body':
+          problem: ""
+          resolution: ""
+        'invalid_response': ""
+        'invalid_version_header':
+          problem: ""
+          resolution: ""
+        'invalid_versioner_option':
+          problem: ""
+          resolution: ""
+        'invalid_with_option_for_represent':
+          problem: ""
+          resolution: ""
+        'missing_group_type': ""
+        'missing_mime_type':
+          problem: ""
+          resolution: ""
+        'missing_option': ""
+        'missing_vendor_option':
+          problem: ""
+          resolution: ""
+          summary: ""
+        'mutual_exclusion': ""
+        'presence': ""
+        'regexp': ""
+        'same_as': ""
+        'too_many_multipart_files': ""
+        'unknown_options': ""
+        'unknown_parameter': ""
+        'unknown_validator': ""
+        'unsupported_group_type': ""
+        'values': ""
+  title: ""
+  description:
+    'part1': ""
+    'part2': ""
+    'part3': ""
+...
