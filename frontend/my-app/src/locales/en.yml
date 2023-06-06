@@ -1,0 +1,8 @@
+en:
+  login_screen.register: Register
+  login_screen.your_e-mail: 'Your E-mail'
+  login_screen.password: Password
+  title: Title
+  description.part1: 'To get started, edit <1>src/App.js</1> and save to reload.'
+  description.part2: 'Switch language between english and german using buttons above.'
+  description.part3: 'Checkin JSON'
