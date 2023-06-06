@@ -1,0 +1,10 @@
+fr:
+  login_screen:
+    'register': Enregistrer
+    'your_e-mail': 'Votre e-mail'
+    'password': 'Mot de passe'
+  title: Titre
+  description:
+    'part1': ''
+    'part2': ''
+    'part3': ''
