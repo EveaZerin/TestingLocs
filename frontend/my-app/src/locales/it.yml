@@ -1,0 +1,10 @@
+it:
+  login_screen:
+    'register': Registrati
+    'your_e-mail': 'La tua email'
+    'password': 'Parola d''ordine asdasd'
+  title: Titolo
+  description:
+    'part1': ''
+    'part2': ''
+    'part3': ''
