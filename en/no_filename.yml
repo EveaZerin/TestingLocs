@@ -1,0 +1,8 @@
+---
+en:
+  login_screen:
+    'register': Phone
+    'your_e-mail': Your E-mail
+    'phone': Register
+    'password': Password
+...
