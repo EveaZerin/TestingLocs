@@ -1,0 +1,31 @@
+---
+en:
+  user_mailer:
+    reset_confirmation:
+      html:
+        body_html: We have received a request to reset your password for this email
+          address.<br />To reset the password, please click <a href=%{link}>here</a>.<br><br>If
+          you have not requested a password change, please ignore this email.<br><br>
+        ending_html: Kind Regards<br />Bio Suisse
+        greeting_html: Hello %{name}
+      subject: Password change
+      text:
+        body: If you have requested to reset your password follow the link below.
+          Otherwise please ignore this message. (Your password will not be changed
+          if you don't follow the link below.)
+        ending: Sincerely yours,
+        greeting: Dear %{name},
+  grape:
+    errors:
+      format: '%{attributes} %{message}'
+      messages:
+        all_or_none: provide all or none of parameters
+        at_least_one: are missing, at least one parameter must be provided
+        blank: is empty
+        coerce: is invalid
+        empty_message_body: empty message body supplied with %{body_format} content-type
+        exactly_one: are missing, exactly one parameter must be provided
+        except_values: has a value not allowed
+        incompatible_option_values: '%{option1}: %{value1} is incompatible
+          with %{option2}: %{value2}'
+...

@@ -1,0 +1,26 @@
+---
+bn:
+  user_mailer:
+    reset_confirmation:
+      html:
+        body_html: ""
+        ending_html: ""
+        greeting_html: ""
+      subject: ""
+      text:
+        body: ""
+        ending: ""
+        greeting: ""
+  grape:
+    errors:
+      format: ""
+      messages:
+        all_or_none: ""
+        at_least_one: ""
+        blank: ""
+        coerce: ""
+        empty_message_body: ""
+        exactly_one: ""
+        except_values: ""
+        incompatible_option_values: ""
+...
