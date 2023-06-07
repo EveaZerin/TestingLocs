@@ -4,5 +4,11 @@
     "part1": "To get started, edit <1>src/App.js</1> and save to reload.",
     "part2": "Switch language between english and german using buttons above.",
     "part3": "Checkin JSON"
+  },
+  "login_screen": {
+    "register": "Phone",
+    "your_e-mail": "Your E-mail",
+    "phone": "Register",
+    "password": "Password"
   }
 }
