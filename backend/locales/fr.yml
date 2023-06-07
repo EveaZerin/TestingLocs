@@ -1,26 +1,29 @@
----
 fr:
   user_mailer:
     reset_confirmation:
       html:
-        body_html: We have received a request to reset your password for this email address.<br />To reset the password, please click <a href=%{link}>here</a>.<br><br>If you have not requested a password change, please ignore this email.<br><br>
-        ending_html: Kind Regards<br />Bio Suisse
-        greeting_html: Hello %{name}
-      subject: Password change
+        body_html: 'Nous avons reçu une demande de réinitialisation du mot de passe pour cette adresse électronique.<br />Pour réinitialiser le mot de passe, veuillez cliquer <a href=%{link}>ici</a>.<br><br>Si vous n''avez pas demandé de changement de mot de passe, veuillez ignorer cet e-mail.<br><br>'
+        ending_html: 'Cordialement<br />Bio Suisse'
+        greeting_html: 'Bonjour %{nom}'
+      subject: 'Changement de mot de passe'
       text:
-        body: If you have requested to reset your password follow the link below. Otherwise please ignore this message. (Your password will not be changed if you don't follow the link below.)
-        ending: Sincerely yours,
-        greeting: Dear %{name},
+        body: 'Si vous avez demandé à réinitialiser votre mot de passe, suivez le lien ci-dessous. Dans le cas contraire, veuillez ignorer ce message. (Votre mot de passe ne sera pas modifié si vous ne suivez pas le lien ci-dessous).'
+        ending: 'Je vous prie d''agréer, Monsieur le Président, l''expression de mes sentiments distingués,'
+        greeting: 'Cher %{nom},'
   grape:
     errors:
-      format: "%{attributes} %{message}"
+      format: '%{attributs} %{message}'
       messages:
-        all_or_none: provide all or none of parameters
-        at_least_one: are missing, at least one parameter must be provided
-        blank: is empty
-        coerce: is invalid
-        empty_message_body: empty message body supplied with %{body_format} content-type
-        exactly_one: are missing, exactly one parameter must be provided
-        except_values: has a value not allowed
-        incompatible_option_values: "%{option1}: %{value1} is incompatible with %{option2}: %{value2}"
-  
+        all_or_none: 'fournir tous les paramètres ou aucun d''entre eux'
+        at_least_one: 'sont manquants, au moins un paramètre doit être fourni'
+        blank: 'est vide'
+        coerce: 'n''est pas valide'
+        empty_message_body: 'corps du message vide fourni avec %{body_format} content-type'
+        exactly_one: 'sont manquants, un seul paramètre doit être fourni'
+        except_values: 'a une valeur non autorisée'
+        incompatible_option_values: '%{option1} : %{valeur1} est incompatible avec %{option2} : %{valeur2}'
+  login_screen:
+    'register': Téléphone
+    'your_e-mail': 'Votre e-mail'
+    'phone': Registre
+    'password': 'Mot de passe'
